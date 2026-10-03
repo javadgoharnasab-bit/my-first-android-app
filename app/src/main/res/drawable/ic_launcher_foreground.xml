@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Friendly speech bubble within the 66dp safe zone (centered around 54, 54) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M36,28 C28.27,28 22,34.27 22,42 L22,64 C22,71.73 28.27,78 36,78 L46,78 L46,86 C46,87.6 47.9,88.5 49.1,87.4 L59.5,78 L72,78 C79.73,78 86,71.73 86,64 L86,42 C86,34.27 79.73,28 72,28 Z" />
+    
+    <!-- Smile Arc inside the bubble -->
+    <path
+        android:strokeColor="#4338CA"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M44,58 C48,64 60,64 64,58" />
+
+    <!-- Left eye -->
+    <path
+        android:fillColor="#4338CA"
+        android:pathData="M44,48m-3.5,0a3.5,3.5 0,1,1 7,0a3.5,3.5 0,1,1 -7,0" />
+
+    <!-- Right eye -->
+    <path
+        android:fillColor="#4338CA"
+        android:pathData="M64,48m-3.5,0a3.5,3.5 0,1,1 7,0a3.5,3.5 0,1,1 -7,0" />
+
+    <!-- Cheerful sparkle star on top right -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M84,24 L85.5,28.5 L90,30 L85.5,31.5 L84,36 L82.5,31.5 L78,30 L82.5,28.5 Z" />
+</vector>

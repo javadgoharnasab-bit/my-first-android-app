@@ -1,0 +1,6 @@
+{
+  "name": "سلام",
+  "description": "یک اپلیکیشن ساده اندروید با دکمه سلام و نمایش پیام کارکرد",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

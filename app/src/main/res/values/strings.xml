@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">سلام</string>
+    <string name="button_salam">سلام</string>
+    <string name="first_app_success">اولین اپ من کار کرد!</string>
+    <string name="celebration_subtitle">شما اولین قدم برنامه‌نویسی اندروید را با موفقیت برداشتید 🎉</string>
+    <string name="reset_button">تنظیم مجدد</string>
+</resources>
